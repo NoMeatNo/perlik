@@ -24,5 +24,5 @@ cloudstream {
     tvTypes = listOf(
         "Movie"
     )
-    iconUrl = "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/EinthusanProvider/icon.png"
+    iconUrl = "https://raw.githubusercontent.com/NoMeatNo/Peravo2/master/logos/peravo2.png"
 }
